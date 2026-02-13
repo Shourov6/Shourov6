@@ -58,11 +58,11 @@ AI Quiz Generator + Chatbot Integration
 
 ## 📊 GitHub Stats
 
-![Shourov's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shourov6&show_icons=true&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api?username=Shourov6&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="48%" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shourov6&layout=compact&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shourov6&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Shourov6&theme=tokyonight)
+<img src="https://streak-stats.demolab.com?user=Shourov6&theme=tokyonight&hide_border=true" width="98%" />
 
 ---
 
