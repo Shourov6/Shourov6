@@ -1,4 +1,4 @@
-👋 Hi, I'm ASR Shourov
+👋 Hi, I'm Shourov
 
 🚀 AI-Driven Full Stack Engineer
 🧠 Deep Learning • Computer Vision • Scalable Systems
